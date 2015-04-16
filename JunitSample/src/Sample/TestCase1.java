@@ -8,7 +8,7 @@ public class TestCase1 {
 
 	@Test
 	public void test() {
-		System.out.println("Hello Junit");
+		System.out.println("Hello Junitdasdadadad");
 	}
 
 }
